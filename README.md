@@ -1,1 +1,1 @@
-# Typescript-react-testing-
+# Typescript-react-testing
